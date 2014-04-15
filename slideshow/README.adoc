@@ -1,0 +1,21 @@
+hyla generate --backend revealjs -s . -d generated -r adoc2html
+
+NOT USED
+
+// *********************************
+== City where I live
+
+* Follow Dinant, Florennes
+
+image::dinant.jpeg[float="left"]
+image::florennes-place.jpg[]
+
+// *********************************
+== Use cases covered - con't
+
+image::fuse/elasticsearch.png[]
+
+// *********************************
+== Use cases covered - con't
+
+image::fuse/trends.png[]
